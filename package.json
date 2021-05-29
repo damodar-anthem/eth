@@ -12,6 +12,7 @@
     "cypress": "^7.4.0"
   },
   "devDependencies": {
+    "prettier": "2.3.0",
     "typescript": "^4.3.2"
   }
 }
