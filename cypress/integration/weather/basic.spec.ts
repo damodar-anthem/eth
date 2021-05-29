@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-context('Weather2', () => {
+context('Weather', () => {
 
     it('service provides weather for Hammond, LA.', () => {
         cy.visit("https://www.weather.gov/");
