@@ -1,0 +1,14 @@
+{
+  "name": "eth",
+  "version": "1.0.0",
+  "description": "A framework to test everything, e2e.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^7.4.0"
+  }
+}
